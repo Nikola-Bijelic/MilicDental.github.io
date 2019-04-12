@@ -1554,5 +1554,9 @@ ul {
         width: 100% !important;
         height: 100% !important;
     }
+    .centerhit{
+     margin: auto;
+  
+    }
 
 /*# sourceMappingURL=style.css.map */
